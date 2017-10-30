@@ -8,7 +8,6 @@ Toto dílo je licencováno pod licencí Creative Commons CC-BY-SA, která každ�
 
 ## Soubory
 
-28280339.png
 - LICENSE.md: soubor licence CC-BY-SA
 - README.md: tento soubor
 - basne.pdf: vyexportovaná sbírka v PDF pro čtení (formát A4)
